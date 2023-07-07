@@ -21,5 +21,5 @@ There is a lot to add in the project like making the mobile-layout 3d and adding
 
 ## Author
 
-- [ROHIT PURKAIT](https://codeswithroh.github.io)
+- [ADITYA](webdevaditya.netlify.app)
 
