@@ -1,6 +1,6 @@
 # Destny
 
-#### Making a bot friend is no more a dream.
+#### Making a  friend is no more a dream.
 #### Who need real friends when you have Destny,your best friend who will always listen to you and will respond you politely.Well, with Destny you will never be alone.
 #### Say GOODBYE to your lonely life.
 
