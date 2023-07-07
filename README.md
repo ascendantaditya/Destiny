@@ -11,7 +11,7 @@
 
 ### Links
 
-- [Click Here to check out the app]([https://Destny.netlify.app/](https://ascendantaditya.github.io/Destiny/))
+- [Click Here to check out the app]((https://ascendantaditya.github.io/Destiny/))
 
 
 ### Continued development
